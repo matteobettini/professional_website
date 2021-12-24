@@ -17,7 +17,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on studying cooperation and resilience multi-agent and multi-robot systems. 
+bio: My research is focused on studying cooperation and resilience in multi-agent and multi-robot systems. 
 
 # Interests to show in About widget
 interests:
