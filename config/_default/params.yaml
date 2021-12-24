@@ -60,7 +60,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: true
+  show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -76,7 +76,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+  - latex
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -111,7 +113,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla
 projects:
   post_view: 2
   publication_view: 2
