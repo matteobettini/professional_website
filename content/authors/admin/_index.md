@@ -24,7 +24,8 @@ interests:
 - Multi-Robot Systems
 - Multi-Agent Learning and Coordination
 - Reinforcement Learning
-- Artificial Intelligence
+- Graph Neural Networks
+
 
 # Education to show in About widget
 education:
@@ -65,8 +66,12 @@ email: "mb2389@cl.cam.ac.uk"
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+### Hello! :wave:
+#### I am Matteo, a 24 years old PhD student in the Prorok Lab at the University of Cambridge.
+
+With my sueprvisor, [Dr. Amanda Prorok](https://www.proroklab.org/), I study the problem of resilience in multi-agent and multi-robot systems. We employ techniques from the fileds of Multi-Agent Reinforcement Learning and Graph Neural Networks.
+
+Prior to this, during my master, I investigated the problem of transport network design for multi-agent systems. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

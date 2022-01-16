@@ -4,30 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Experience
-    url: '#experience'
-    weight: 10
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 20
-  - name: Posts
-    url: '#posts'
-    weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
-  - name: Gallery
-    url: '#gallery'
-    weight: 50
-  - name: Talks
-    url: '#talks'
-    weight: 60
-  - name: Publications
-    url: '#featured'
-    weight: 70
-  - name: Topics
-    url: '#tags'
-    weight: 80
+  #- name: Experience
+  #  url: '#experience'
+  #  weight: 10
+  #- name: Accomplishments
+  # url: '#accomplishments'
+  # weight: 20
+  #- name: Posts
+  #  url: '#posts'
+  #  weight: 30
+  #- name: Projects
+  #  url: '#projects'
+  #  weight: 40
+  #- name: Gallery
+  #  url: '#gallery'
+  #  weight: 50
+  #- name: Talks
+  #  url: '#talks'
+  #  weight: 60
+  #- name: Publications
+  #  url: '#featured'
+  #  weight: 70
+  #- name: Topics
+  #  url: '#tags'
+  #  weight: 80
   - name: Contact
     url: '#contact'
     weight: 90
