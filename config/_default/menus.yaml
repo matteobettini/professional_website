@@ -22,9 +22,9 @@ main:
   #- name: Talks
   #  url: '#talks'
   #  weight: 60
-  #- name: Publications
-  #  url: '#featured'
-  #  weight: 70
+  - name: Publications
+    url: '#featured'
+    weight: 70
   #- name: Topics
   #  url: '#tags'
   #  weight: 80
