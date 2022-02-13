@@ -27,6 +27,10 @@ contact_links:
     icon_pack: fas
     name: Prorok Lab
     link: 'https://www.proroklab.org//'
+  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    name: Google Scholar
+    link: https://scholar.google.com/citations?user=hcvR_W0AAAAJ
   - icon: github
     icon_pack: fab
     name: GitHub
@@ -34,11 +38,9 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Linkedin
-    link: 'https://www.linkedin.com/in/matteo-bettini-mb/'
- # - icon: google-scholar
- #   icon_pack: ai
- #   name: Scholar
- #   link: ''
+    link: 'https://www.linkedin.com/in/bettinimatteo/'
+
+   
 address:
   street: Department of Computer Science and Technology, William Gates Building, 15 JJ Thomson Avenue
   city: Cambridge
