@@ -45,19 +45,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=hcvR_W0AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/matteobettini
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/matteo-bettini-mb/
+  link: https://linkedin.com/in/bettinimatteo
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/Resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mb2389@cl.cam.ac.uk"
@@ -74,4 +77,6 @@ With my sueprvisor, [Dr. Amanda Prorok](https://www.proroklab.org/), I study the
 
 Prior to this, during my master, I investigated the problem of transport network design for multi-agent systems. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
+-->
