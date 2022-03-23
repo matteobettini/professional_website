@@ -73,9 +73,9 @@ highlight_name: true
 ### Hello! :wave:
 #### I am Matteo, a PhD student in the Prorok Lab at the University of Cambridge.
 
-With my supervisor, [Dr. Amanda Prorok](https://www.proroklab.org/), I study the problem of resilience in multi-agent and multi-robot systems. We employ techniques from the fileds of Multi-Agent Reinforcement Learning and Graph Neural Networks.
+With my supervisor, [Dr. Amanda Prorok](https://www.proroklab.org/), I study resilience and heterogeneity in multi-agent and multi-robot systems. For my research, I employ techniques from the fields of Multi-Agent Reinforcement Learning and Graph Neural Networks.
 
-Prior to this, during my master, I investigated the problem of transport network design for multi-agent systems. 
+Prior to my PhD, I investigated the problem of transport network design for multi-agent routing.
 
 <!-- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
