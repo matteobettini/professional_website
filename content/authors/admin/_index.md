@@ -17,12 +17,12 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on studying cooperation and resilience in multi-agent and multi-robot systems. 
+bio: Matteo's research is focused on studying heterogeneity and resilience in multi-agent and multi-robot systems. 
 
 # Interests to show in About widget
 interests:
 - Multi-Robot Systems
-- Multi-Agent Learning and Coordination
+- Heterogeneous Multi-Agent Learning and Coordination
 - Reinforcement Learning
 - Graph Neural Networks
 
@@ -73,7 +73,7 @@ highlight_name: true
 ### Hello! :wave:
 #### I am Matteo, a PhD student in the Prorok Lab at the University of Cambridge.
 
-With my supervisor, [Dr. Amanda Prorok](https://www.proroklab.org/), I study resilience and heterogeneity in multi-agent and multi-robot systems. For my research, I employ techniques from the fields of Multi-Agent Reinforcement Learning and Graph Neural Networks.
+With my supervisor, [Amanda Prorok](https://www.proroklab.org/), I study resilience and heterogeneity in multi-agent and multi-robot systems. For my research, I employ techniques from the fields of Multi-Agent Reinforcement Learning and Graph Neural Networks.
 
 Prior to my PhD, I investigated the problem of transport network design for multi-agent routing.
 
