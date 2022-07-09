@@ -60,4 +60,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-![](VMAS_scenarios.gif)
+# Scenarios
+{{< figure src="VMAS_scenarios.gif" title="Multi-robot scenarios introduced in VMAS. Robots (blue shapes) interact among each other and with landmarks (green, red, and black shapes) to solve a task." >}}
+# Video
+{{< youtube aaDRYfiesAY >}}
