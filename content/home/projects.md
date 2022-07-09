@@ -29,8 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  #- name: Reinforcement Learning
-  #  tag: Reinforcement Learning
+  - name: Multi-Agent Reinforcement Learning
+    tag: Multi-Agent Reinforcement Learning
   - name: Transport Network Design
     tag: Transport Network Design
 
