@@ -60,5 +60,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 ![](VMAS_scenarios.gif)
