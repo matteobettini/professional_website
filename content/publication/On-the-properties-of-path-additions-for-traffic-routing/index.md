@@ -47,6 +47,7 @@ image:
   caption: 'Non-supermodularity of path additions'
   focal_point: "Center"
   preview_only: false
+  placement: 1
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
