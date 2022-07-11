@@ -30,6 +30,8 @@ tags:
 featured: true
 
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2207.03530
 url_pdf:
 url_code: 'https://github.com/proroklab/VectorizedMultiAgentSimulator'
 url_dataset: ''
