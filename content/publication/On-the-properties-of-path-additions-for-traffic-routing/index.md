@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: SSRN Preprint
-  url: http://ssrn.com/abstract=4027926
+- name: arXiv
+  url: https://arxiv.org/abs/2207.04505
 url_pdf:
 url_code: 'https://github.com/matteobettini/Traffic-Assignment-Frank-Wolfe-2021'
 url_dataset: ''

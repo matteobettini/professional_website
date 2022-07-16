@@ -45,7 +45,7 @@ url_video: 'https://www.youtube.com/watch?v=aaDRYfiesAY&t=1s'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  placement: 2
+  placement: 3
   preview_only: false
 
 # Associated Projects (optional).
