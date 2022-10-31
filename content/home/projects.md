@@ -29,6 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Heterogeneity
+    tag: Heterogeneity
   - name: Multi-Agent Reinforcement Learning
     tag: Multi-Agent Reinforcement Learning
   - name: Transport Network Design
