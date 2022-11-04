@@ -30,6 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Cambridge
+    year: Present
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2021
