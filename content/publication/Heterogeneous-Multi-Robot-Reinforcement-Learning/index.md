@@ -28,6 +28,9 @@ summary:  In this paper, we crystallize the role of heterogeneity in MARL polici
 tags:
 - Heterogeneity
 - Multi-Agent Reinforcement Learning
+categories: 
+- Heterogeneity
+- Multi-Agent Reinforcement Learning
 featured: true
 
 links:

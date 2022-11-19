@@ -10,6 +10,9 @@ main:
   #- name: Accomplishments
   # url: '#accomplishments'
   # weight: 20
+  - name: Featured
+    url: '#featured'
+    weight: 20
   #- name: Posts
   #  url: '#posts'
   #  weight: 30
@@ -23,7 +26,7 @@ main:
   #  url: '#talks'
   #  weight: 60
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 70
   #- name: Topics
   #  url: '#tags'
