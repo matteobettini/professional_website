@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*
-publication_short: In *Proc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*
+publication: In *Autonomous Agents and Multiagent Systems (AAMAS)*
+publication_short: In *The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*
 
 abstract: Cooperative multi-robot tasks can benefit from heterogeneity in the robots’ physical and behavioral traits. In spite of this, traditional Multi-Agent Reinforcement Learning (MARL) frameworks lack the ability to explicitly accommodate policy heterogeneity, and typically constrain agents to share neural network parameters. This enforced homogeneity limits application in cases where the tasks benefit from heterogeneous behaviors. In this paper, we crystallize the role of heterogeneity in MARL policies. Towards this end, we introduce Heterogeneous Graph Neural Network Proximal Policy Optimization (HetGPPO), a paradigm for training heterogeneous MARL policies that leverages a Graph Neural Network for differentiable inter-agent communication. HetGPPO allows communicating agents to learn heterogeneous behaviors while enabling fully decentralized training in partially observable environments. We complement this with a taxonomical overview that exposes more heterogeneity classes than previously identified. To motivate the need for our model, we present a characterization of techniques that homogeneous models can leverage to emulate heterogeneous behavior, and show how this “apparent heterogeneity” is brittle in real-world conditions. Through simulations and real-world experiments, we show that&#58; (i) when homogeneous methods fail due to strong heterogeneous requirements, HetGPPO succeeds, and, (ii) when homogeneous methods are able to learn apparently heterogeneous behaviors, HetGPPO achieves higher resilience to both training and deployment noise.
 
