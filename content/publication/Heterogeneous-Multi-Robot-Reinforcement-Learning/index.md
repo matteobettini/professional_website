@@ -35,7 +35,7 @@ featured: true
 
 links:
 - name: arXiv
-  url: 'https://arxiv.org/abs/2301.07137'
+  url: https://arxiv.org/abs/2301.07137
 url_pdf:
 url_code: 'https://github.com/proroklab/HetGPPO'
 url_dataset: ''
