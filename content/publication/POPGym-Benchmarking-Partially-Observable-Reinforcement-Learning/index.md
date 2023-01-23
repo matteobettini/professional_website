@@ -4,7 +4,7 @@ authors:
 - morad
 - kortvelesy
 - admin
-- Stefan Liwicki
+- Stephan Liwicki
 - prorok
 date: "2023-01-04T00:00:00Z"
 doi: ""
