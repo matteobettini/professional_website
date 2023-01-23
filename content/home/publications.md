@@ -51,4 +51,3 @@ design:
   flip_alt_rows: false
 ---
 To find relevant content, try [searching publications](./publication/) or filtering using the buttons below.
-# or exploring [popular topics](#tags)
