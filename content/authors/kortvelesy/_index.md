@@ -27,8 +27,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rk627@cl.cam.ac.uk'
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com.co/citations?user=fMxXjiIAAAAJ&hl=en
 - icon: github
   icon_pack: fab

@@ -27,8 +27,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aprorok
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.ch/citations?user=o7xMDgEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
