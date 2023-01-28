@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: uploads/Resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/Matteo bettini - CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mb2389@cl.cam.ac.uk"
@@ -80,6 +80,5 @@ With my supervisor, [Amanda Prorok](https://www.proroklab.org/), I study resilie
 
 Prior to my PhD, I investigated the problem of transport network design for multi-agent routing.
 
-<!-- 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
--->
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Matteo bettini - CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
