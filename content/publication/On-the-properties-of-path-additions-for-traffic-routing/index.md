@@ -27,8 +27,6 @@ summary: In this paper, we investigate the impact of path additions to transport
 
 tags:
 - Transport Network Design
-categories:
-- Transport Network Design
 featured: false
 
 links:
