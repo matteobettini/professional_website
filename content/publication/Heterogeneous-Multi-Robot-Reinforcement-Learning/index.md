@@ -33,6 +33,8 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2301.07137
+- name: Talk
+  url: https://www.youtube.com/watch?v=a4md0es3kuo
 url_pdf:
 url_code: 'https://github.com/proroklab/HetGPPO'
 url_dataset: ''
