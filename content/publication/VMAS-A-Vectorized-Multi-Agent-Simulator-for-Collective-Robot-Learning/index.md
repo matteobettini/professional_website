@@ -27,7 +27,7 @@ summary:  In this paper, we introduce the Vectorized Multi-Agent Simulator (VMAS
 
 tags:
 - Multi-Agent Reinforcement Learning
-featured: true
+featured: false
 
 links:
 - name: arXiv

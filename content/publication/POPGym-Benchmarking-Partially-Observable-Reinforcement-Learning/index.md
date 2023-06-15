@@ -33,6 +33,8 @@ categories:
 featured: false
 
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2303.01859
 - name: OpenReview
   url: https://openreview.net/forum?id=chDrutUTs0K
 url_pdf:
