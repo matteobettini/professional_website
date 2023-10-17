@@ -10,12 +10,13 @@ main:
   #- name: Accomplishments
   # url: '#accomplishments'
   # weight: 20
+  - name: Posts
+    url: '#posts'
+    weight: 20
   - name: Featured
     url: '#featured'
-    weight: 20
-  #- name: Posts
-  #  url: '#posts'
-  #  weight: 30
+    weight: 30
+
   #- name: Projects
   #  url: '#projects'
   #  weight: 40
