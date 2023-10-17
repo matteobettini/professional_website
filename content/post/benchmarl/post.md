@@ -220,6 +220,7 @@ Currently available ones are:
 <a href="https://api.wandb.ai/links/benchmarl/xf5h3p3m">
 <img src=https://img.shields.io/badge/Benchmarks-Wandb-yellow />
 </a></div>
+
 In the following, we report a table of the results:
 
 | **<p align="center">Environment</p>** | **<p align="center">Sample efficiency curves (all tasks)</p>**                            | **<p align="center">Performance profile</p>**                                             | **<p align="center">Aggregate scores</p>**                                                |
