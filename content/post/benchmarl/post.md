@@ -208,7 +208,7 @@ specific environments to enable users to bootstrap their benchmarking.
 You can just run the scripts in this folder to automatically use the proposed hyperparameters.
 
 We will tune benchmarks for you and publish the config and benchmarking plots on
-[Wandb](https://wandb.ai/benchmarl/public/reportlist) publicly
+[Wandb](https://wandb.ai/matteobettini/benchmarl-public/reportlist) publicly
 
 Currently available ones are:
 
@@ -217,7 +217,7 @@ Currently available ones are:
 <a href="https://github.com/facebookresearch/BenchMARL/blob/main/fine_tuned/vmas/conf/config.yaml">
 <img src=https://img.shields.io/badge/Conf-purple.svg />
 </a>
-<a href="https://api.wandb.ai/links/benchmarl/xf5h3p3m">
+<a href="https://api.wandb.ai/links/matteobettini/r5744vas">
 <img src=https://img.shields.io/badge/Benchmarks-Wandb-yellow />
 </a></div>
 
