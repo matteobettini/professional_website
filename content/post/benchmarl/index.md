@@ -40,7 +40,7 @@ links:
 - name: Run in Colab
   url: https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb
 - name: Wandb Benchmarks
-  url: https://wandb.ai/benchmarl/public/reportlist
+  url: https://wandb.ai/matteobettini/benchmarl-public/reportlist
 - name: Examples
   url: https://github.com/facebookresearch/BenchMARL/tree/main/examples
 url_pdf: ''
