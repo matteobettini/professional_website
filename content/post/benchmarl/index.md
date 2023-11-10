@@ -41,6 +41,8 @@ links:
   url: https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb
 - name: Wandb Benchmarks
   url: https://wandb.ai/matteobettini/benchmarl-public/reportlist
+- name: Talk
+  url: https://www.youtube.com/watch?v=1tOIMgJf_VQ
 - name: Examples
   url: https://github.com/facebookresearch/BenchMARL/tree/main/examples
 url_pdf: ''
