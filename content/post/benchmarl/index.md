@@ -37,6 +37,8 @@ categories:
 - Multi-Agent Reinforcement Learning
 
 links:
+- name: Docs
+  url: https://benchmarl.readthedocs.io/
 - name: Run in Colab
   url: https://colab.research.google.com/github/facebookresearch/BenchMARL/blob/main/notebooks/run.ipynb
 - name: Wandb Benchmarks
