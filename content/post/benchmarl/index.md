@@ -33,8 +33,7 @@ authors:
 
 tags:
 - Multi-Agent Reinforcement Learning
-categories: 
-- Multi-Agent Reinforcement Learning
+
 
 links:
 - name: Docs

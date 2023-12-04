@@ -27,7 +27,7 @@ summary: In this paper, we introduce System Neural Diversity (SND)&#58; a measur
 tags:
 - Heterogeneity
 - Multi-Agent Reinforcement Learning
-featured: true
+featured: False
 
 links:
 - name: arXiv
