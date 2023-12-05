@@ -38,7 +38,7 @@ links:
 - name: Talk
   url: https://www.youtube.com/watch?v=1tOIMgJf_VQ
 - name: arXiv
-  url: 
+  url: https://arxiv.org/abs/2312.01472
 url_pdf: ''
 url_code: 'https://github.com/facebookresearch/BenchMARL'
 url_dataset: ''
