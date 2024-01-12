@@ -223,9 +223,9 @@ Currently available ones are:
 
 In the following, we report a table of the results:
 
-| **<p align="center">Environment</p>** | **<p align="center">Sample efficiency curves (all tasks)</p>**                            | **<p align="center">Performance profile</p>**                                             | **<p align="center">Aggregate scores</p>**                                                |
-|---------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| VMAS                                  | <img src="https://drive.google.com/uc?export=view&id=1fzfFn0q54gsALRAwmqD1hRTqQIadGPoE"/> | <img src="https://drive.google.com/uc?export=view&id=151pSR2sBluSpWiYxtq3jNX0tfE0vgAuR"/> | <img src="https://drive.google.com/uc?export=view&id=1q2So9V6sL8NHMtj6vL-S3KyzZi11Vfia"/> |
+| **<p align="center">Environment</p>** | **<p align="center">Sample efficiency curves (all tasks)</p>**                                                                                                                        | **<p align="center">Performance profile</p>**                                                                                                                               | **<p align="center">Aggregate scores</p>**                                                                                                                        |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| VMAS                                  | <img src="https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/environemnt_sample_efficiency_curves.png"/> | <img src="https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/performance_profile_figure.png"/> | <img src="https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/aggregate_scores.png"/> |
 
 
 ## Reporting and plotting
@@ -236,9 +236,9 @@ a file named `{experiment_name}.json` will be created in the experiment output f
 You can load and merge these files using the utils in [eval_results](https://github.com/facebookresearch/BenchMARL/tree/main/benchmarl/eval_results.py) to create beautiful plots of 
 your benchmarks.  No more struggling with matplotlib and latex!
 
-![aggregate_scores](https://drive.google.com/uc?export=view&id=1q2So9V6sL8NHMtj6vL-S3KyzZi11Vfia)
-![sample_efficiancy](https://drive.google.com/uc?export=view&id=1fzfFn0q54gsALRAwmqD1hRTqQIadGPoE)
-![performace_profile](https://drive.google.com/uc?export=view&id=151pSR2sBluSpWiYxtq3jNX0tfE0vgAuR)
+![aggregate_scores](https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/aggregate_scores.png)
+![sample_efficiancy](https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/environemnt_sample_efficiency_curves.png)
+![performace_profile](https://raw.githubusercontent.com/matteobettini/benchmarl_sphinx_theme/master/benchmarl_sphinx_theme/static/img/benchmarks/vmas/performance_profile_figure.png)
 
 ## Configuring
 The project can be configured either the script itself or via [hydra](https://hydra.cc/docs/intro/). 
