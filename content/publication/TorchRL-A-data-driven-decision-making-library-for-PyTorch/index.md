@@ -23,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Twelfth International Conference on Learning Representations (ICLR)* - __*Spotlight (5%)*__ 
-publication_short: In *International Conference on Learning Representations (ICLR)* - __*Spotlight (5%)*__ 
+publication: In *The Twelfth International Conference on Learning Representations (ICLR)* - __*Spotlight (top 5%)*__ 
+publication_short: In *International Conference on Learning Representations (ICLR)* - __*Spotlight (top 5%)*__ 
 
 abstract: Striking a balance between integration and modularity is crucial for a machine learning library to be versatile and user-friendly, especially in handling decision and control tasks that involve large development teams and complex, real-world data, and environments. To address this issue, we propose TorchRL, a generalistic control library for PyTorch that provides well-integrated, yet standalone components. With a versatile and robust primitive design, TorchRL facilitates streamlined algorithm development across the many branches of Reinforcement Learning (RL) and control. We introduce a new PyTorch primitive, TensorDict, as a flexible data carrier that empowers the integration of the library's components while preserving their modularity. Hence replay buffers, datasets, distributed data collectors, environments, transforms and objectives can be effortlessly used in isolation or combined. We provide a detailed description of the building blocks, supporting code examples and an extensive overview of the library across domains and tasks. Finally, we show comparative benchmarks to demonstrate its computational efficiency. TorchRL fosters long-term support and is publicly available on GitHub for greater reproducibility and collaboration within the research community. The code is opensourced [here](https://github.com/pytorch/rl).
 # Summary. An optional shortened abstract.
