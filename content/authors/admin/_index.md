@@ -57,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/bettinimatteo
+- icon: youtube
+  icon_pack: fab
+  link: http://www.youtube.com/@matteobettini1871
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
