@@ -27,8 +27,7 @@ abstract: Real world applications of Reinforcement Learning (RL) are often parti
 summary: We introduce Partially Observable Process Gym (POPGym), a two-part library containing (1) a diverse collection of 14 partially observable environments, each with multiple difficulties and (2) implementations of 13 memory model baselines – the most in a single RL library. Using POPGym, we execute the largest comparison across RL memory models to date. 
 
 tags:
-
-categories: 
+  - Software library
 
 featured: false
 

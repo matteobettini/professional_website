@@ -5,7 +5,7 @@ authors:
 - prorok
 - Vincent Moens
 
-date: "2023-12-04T00:00:00Z"
+date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,6 +27,7 @@ summary: BenchMARL is a library for benchmarking Multi-Agent Reinforcement Learn
 
 tags:
 - Multi-Agent Reinforcement Learning
+- Software library
 
 featured: true
 

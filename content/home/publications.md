@@ -33,8 +33,8 @@ content:
     tag: Heterogeneity
   - name: Multi-Agent Reinforcement Learning
     tag: Multi-Agent Reinforcement Learning
-  - name: Transport Network Design
-    tag: Transport Network Design
+  - name: Software library
+    tag: Software library
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

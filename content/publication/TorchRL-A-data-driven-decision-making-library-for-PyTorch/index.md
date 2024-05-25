@@ -32,7 +32,9 @@ summary: We propose TorchRL, a generalistic control library for PyTorch that pro
   
 tags:
 - Multi-Agent Reinforcement Learning
-featured: true
+- Software library
+
+featured: false
 
 links:
 - name: Documentation
