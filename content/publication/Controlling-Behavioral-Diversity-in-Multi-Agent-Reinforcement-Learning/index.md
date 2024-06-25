@@ -37,6 +37,8 @@ links:
   url: https://openreview.net/forum?id=qQjUgItPq4
 - name: arXiv
   url: https://arxiv.org/abs/2405.15054
+- name: Poster
+  url: poster.pdf
 url_pdf: ''
 url_code: 'https://github.com/proroklab/ControllingBehavioralDiversity'
 url_dataset: ''
