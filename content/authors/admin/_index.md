@@ -51,6 +51,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hcvR_W0AAAAJ
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Matteo-Bettini/2153781474
 - icon: github
   icon_pack: fab
   link: https://github.com/matteobettini
