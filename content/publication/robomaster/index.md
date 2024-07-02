@@ -18,11 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Preprint*
-publication_short: In *Preprint*
+publication: In *The 17th International Symposium on Distributed Autonomous Robotic Systems (DARS)*
+publication_short: In *Distributed Autonomous Robotic Systems (DARS)*
 
 abstract: Compact robotic platforms with powerful compute and actuation capabilities are key enablers for practical, real-world deployments of multi-agent research. This article introduces a tightly integrated hardware, control, and simulation software stack on a fleet of holonomic ground robot platforms designed with this motivation. Our robots, a fleet of customised DJI Robomaster S1 vehicles, offer a balance between small robots that do not possess sufficient compute or actuation capabilities and larger robots that are unsuitable for indoor multi-robot tests. They run a modular ROS2-based optimal estimation and control stack for full onboard autonomy, contain ad-hoc peer-to-peer communication infrastructure, and can zero-shot run multi-agent reinforcement learning (MARL) policies trained in our vectorized multi-agent simulation framework. We present an in-depth review of other platforms currently available, showcase new experimental validation of our system's capabilities, and introduce case studies that highlight the versatility and reliabilty of our system as a testbed for a wide range of research demonstrations. Our system as well as supplementary material is available online at [this https URL](https://proroklab.github.io/cambridge-robomaster/).
 # Summary. An optional shortened abstract.
