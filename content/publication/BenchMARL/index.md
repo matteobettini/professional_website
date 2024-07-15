@@ -40,6 +40,8 @@ links:
   url: https://www.youtube.com/watch?v=1tOIMgJf_VQ
 - name: arXiv
   url: https://arxiv.org/abs/2312.01472
+- name: Poster
+  url: poster.pdf
 url_pdf: ''
 url_code: 'https://github.com/facebookresearch/BenchMARL'
 url_dataset: ''
