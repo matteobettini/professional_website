@@ -43,7 +43,8 @@ links:
   url: https://arxiv.org/abs/2306.00577
 - name: OpenReview
   url: https://openreview.net/forum?id=QxItoEAVMb
-  
+- name: Poster
+  url: poster.pdf
 url_pdf:
 url_code: 'https://github.com/pytorch/rl'
 url_dataset: ''
