@@ -36,6 +36,8 @@ links:
   url: https://arxiv.org/abs/2303.01859
 - name: OpenReview
   url: https://openreview.net/forum?id=chDrutUTs0K
+- name: Poster
+  url: poster.png
 url_pdf:
 url_code: 'https://github.com/smorad/popgym'
 url_dataset: ''
