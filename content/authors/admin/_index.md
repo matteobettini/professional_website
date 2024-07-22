@@ -69,7 +69,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/Matteo bettini - CV.pdf
+  link: uploads/Matteo_bettini___CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mb2389@cl.cam.ac.uk"
