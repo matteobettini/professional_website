@@ -42,6 +42,8 @@ links:
   url: https://arxiv.org/abs/2312.01472
 - name: Poster
   url: poster.pdf
+- name: Proceedings
+  url: http://jmlr.org/papers/v25/23-1612.html
 url_pdf: ''
 url_code: 'https://github.com/facebookresearch/BenchMARL'
 url_dataset: ''
