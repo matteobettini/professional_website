@@ -87,4 +87,4 @@ With my supervisor, [Amanda Prorok](https://www.proroklab.org/), I study resilie
 Prior to my PhD, I investigated the problem of transport network design for multi-agent routing.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Matteo bettini - CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Matteo_bettini___CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
