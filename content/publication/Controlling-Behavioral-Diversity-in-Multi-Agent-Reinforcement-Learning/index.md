@@ -39,6 +39,8 @@ links:
   url: https://arxiv.org/abs/2405.15054
 - name: Poster
   url: poster.pdf
+- name: Talk
+  url: https://youtu.be/ImcuXnmX43g
 url_pdf: ''
 url_code: 'https://github.com/proroklab/ControllingBehavioralDiversity'
 url_dataset: ''
