@@ -44,6 +44,8 @@ links:
   url: poster.pdf
 - name: Proceedings
   url: http://jmlr.org/papers/v25/23-1612.html
+- name: NeurIPS
+  url: https://neurips.cc/virtual/2024/poster/98318
 url_pdf: ''
 url_code: 'https://github.com/facebookresearch/BenchMARL'
 url_dataset: ''
