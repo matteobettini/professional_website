@@ -36,6 +36,8 @@ links:
   url: https://arxiv.org/abs/2207.03530
 - name: Talk
   url: https://youtu.be/boViBY7Woqg
+- name: Lecture
+  url: https://www.youtube.com/watch?v=mIb1uGeRJsg
 url_pdf:
 url_code: 'https://github.com/proroklab/VectorizedMultiAgentSimulator'
 url_dataset: ''

@@ -38,6 +38,8 @@ links:
   url: https://wandb.ai/matteobettini/benchmarl-public/reportlist
 - name: Talk
   url: https://www.youtube.com/watch?v=1tOIMgJf_VQ
+- name: Lecture
+  url: https://www.youtube.com/watch?v=mIb1uGeRJsg
 - name: arXiv
   url: https://arxiv.org/abs/2312.01472
 - name: Poster
