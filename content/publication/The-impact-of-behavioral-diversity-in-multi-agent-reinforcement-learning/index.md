@@ -30,12 +30,12 @@ tags:
 featured: False
 
 links:
+- name: Soccer trailer
+  url: https://assets-eu.researchsquare.com/files/rs-5589114/v1/ccbfa32bb60ebfc5abc662fd.mp4
 - name: arXiv
   url: https://arxiv.org/abs/2412.16244
 - name: Code Ocean
   url: https://codeocean.com/capsule/4161071/tree/
-- name: Soccer trailer
-  url: https://assets-eu.researchsquare.com/files/rs-5589114/v1/ccbfa32bb60ebfc5abc662fd.mp4
 url_pdf:
 url_code: ''
 url_dataset: ''
