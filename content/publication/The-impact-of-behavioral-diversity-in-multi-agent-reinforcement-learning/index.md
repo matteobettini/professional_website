@@ -32,8 +32,6 @@ featured: False
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.16244
-- name: Research Square
-  url: https://www.researchsquare.com/article/rs-5589114
 - name: Code Ocean
   url: https://codeocean.com/capsule/4161071/tree/
 - name: Soccer trailer
