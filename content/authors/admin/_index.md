@@ -6,12 +6,12 @@ title: Matteo Bettini
 superuser: true
 
 # Role/position/tagline
-role:  PhD Candidate
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Prorok Lab
-  url: https://www.proroklab.org/?team
+- name: Meta
+  url: https://ai.meta.com/
 - name: University of Cambridge
   url: https://www.cst.cam.ac.uk/
 
@@ -21,9 +21,10 @@ bio: Matteo's research is focused on studying heterogeneity and resilience in mu
 
 # Interests to show in About widget
 interests:
-- Multi-Robot Systems
-- Heterogeneous Multi-Agent Learning and Coordination
 - Reinforcement Learning
+- Multi-Robot Systems
+- LLM Agents
+- Heterogeneous Multi-Agent Learning and Coordination
 - Graph Neural Networks
 
 
@@ -32,7 +33,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Cambridge
-    year: Present
+    year: 2025
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2021
@@ -80,11 +81,17 @@ highlight_name: true
 
 
 ### Hello! :wave:
-#### I am Matteo, a PhD student in the Prorok Lab at the University of Cambridge.
+#### I am Matteo, a researcher in machine learning.
 
-With my supervisor, [Amanda Prorok](https://www.proroklab.org/), I study resilience and heterogeneity in multi-agent and multi-robot systems. For my research, I employ techniques from the fields of Multi-Agent Reinforcement Learning and Graph Neural Networks.
+My research focuses on reinforcement learning applied to multi-agent and multi-robot systems.
 
-Prior to my PhD, I investigated the problem of transport network design for multi-agent routing.
+I am currently working on training LLM agents for long horizon tasks using reinforcement learning at Meta.
 
+I obtained my PhD from the [Prorok Lab](https://www.proroklab.org/) at the University of Cambridge, 
+were I studied heterogeneity in multi-agent and multi-robot systems and developed the [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator) simulator. 
+For this research, I employed techniques from the fields of Multi-Agent Reinforcement Learning and Graph Neural Networks.
+During my PhD, I joined PyTorch at Meta, where I created [BenchMARL](https://github.com/facebookresearch/BenchMARL) and helped develop [TorchRL](https://github.com/pytorch/rl). 
+
+For my master, I investigated the problem of transport network design for multi-agent routing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Matteo_bettini___CV.pdf" "newtab" >}}CV{{< /staticref >}}. 

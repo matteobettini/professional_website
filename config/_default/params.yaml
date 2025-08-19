@@ -23,10 +23,10 @@ twitter: ''
 email: mb2389@cl.cam.ac.uk
 phone: 
 contact_links:
-  - icon: users
-    icon_pack: fas
-    name: Prorok Lab
-    link: 'https://www.proroklab.org//'
+#  - icon: users
+#    icon_pack: fas
+#    name: Prorok Lab
+#    link: 'https://www.proroklab.org//'
   - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     name: Google Scholar
@@ -49,16 +49,16 @@ contact_links:
     link: http://www.youtube.com/@matteobettini1871
 
    
-address:
-  street: Office SN05, Department of Computer Science and Technology, William Gates Building, 15 JJ Thomson Avenue
-  city: Cambridge
-  region: 
-  postcode: 'CB3 0FD'
-  country: United Kingdom
-  country_code: UK
-coordinates:
-  latitude: '52.21123696078217'
-  longitude: '0.09206671555446201'
+#address:
+#  street: Office SN05, Department of Computer Science and Technology, William Gates Building, 15 JJ Thomson Avenue
+#  city: Cambridge
+#  region:
+#  postcode: 'CB3 0FD'
+#  country: United Kingdom
+#  country_code: UK
+#coordinates:
+#  latitude: '52.21123696078217'
+#  longitude: '0.09206671555446201'
 directions: 
 office_hours:
 appointment_url: 
