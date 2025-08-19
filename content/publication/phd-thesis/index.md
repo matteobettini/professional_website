@@ -26,7 +26,6 @@ summary: This thesis presents a study of neural diversity in multi-agent systems
 tags:
 - Multi-Agent Reinforcement Learning
 - Heterogeneity
-- Software library
 
 featured: false
 
