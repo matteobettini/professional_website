@@ -85,7 +85,7 @@ highlight_name: true
 
 My research focuses on reinforcement learning applied to multi-agent and multi-robot systems.
 
-I am currently working on training LLM agents for long horizon tasks using reinforcement learning at Meta.
+I am currently working on training LLM agents for long-horizon tasks using reinforcement learning at Meta.
 
 I obtained my PhD from the [Prorok Lab](https://www.proroklab.org/) at the University of Cambridge, 
 were I studied heterogeneity in multi-agent and multi-robot systems and developed the [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator) simulator. 
