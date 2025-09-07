@@ -44,7 +44,7 @@ links:
   url: https://arxiv.org/abs/2312.01472
 - name: Poster
   url: poster.pdf
-- name: Proceedings
+- name: JMLR
   url: http://jmlr.org/papers/v25/23-1612.html
 - name: NeurIPS
   url: https://neurips.cc/virtual/2024/poster/98318

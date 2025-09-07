@@ -30,6 +30,8 @@ tags:
 featured: False
 
 links:
+- name: JMLR
+  url: http://jmlr.org/papers/v26/24-1477.html
 - name: arXiv
   url: https://arxiv.org/abs/2305.02128
 url_pdf:
