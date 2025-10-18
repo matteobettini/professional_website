@@ -17,7 +17,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matteo's research is focused on studying heterogeneity and resilience in multi-agent and multi-robot systems. 
+bio: Matteo's research is focused on multi-agent reinforcement learning, with applications to robotics and LLM agents. 
 
 # Interests to show in About widget
 interests:

@@ -35,6 +35,8 @@ content:
     tag: Multi-Agent Reinforcement Learning
   - name: Software library
     tag: Software library
+  - name: LLM Agents
+    tag: LLM Agents
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
