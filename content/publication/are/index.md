@@ -25,7 +25,7 @@ authors:
 - Vladislav Vorotilov
 - Mengjue Wang
 - Ian Yu
-date: "2025-09-20T00:00:00Z"
+date: "2026-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,11 +35,12 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Preprint*
-publication_short: In *Preprint*
+publication: In *International Conference on Learning Representations (ICLR)*
+publication_short: In *International Conference on Learning Representations (ICLR)*
+
 
 abstract: We introduce Meta Agents Research Environments (ARE), a research platform for scalable creation of environments, integration of synthetic or real applications, and execution of agentic orchestrations. ARE provides simple abstractions to build complex and diverse environments, each with their own rules, tools, content, and verifiers, helping to bridge the gap between model development and real-world deployment. We also propose Gaia2, a benchmark built in ARE and designed to measure general agent capabilities. Beyond search and execution, Gaia2 requires agents to handle ambiguities and noise, adapt to dynamic environments, collaborate with other agents, and operate under temporal constraints. Unlike prior benchmarks, Gaia2 runs asynchronously, surfacing new failure modes that are invisible in static settings. Our experiments show that no system dominates across the intelligence spectrum&#58; stronger reasoning often comes at the cost of efficiency, and budget scaling curves plateau, highlighting the need for new architectures and adaptive compute strategies. Perhaps more importantly, ARE abstractions enable continuous extension of Gaia2 to other environments, empowering the community to rapidly create new benchmarks tailored to their domains. In AI's second half, progress increasingly depends on defining meaningful tasks and robust evaluations to drive frontier capabilities forward.# Summary. An optional shortened abstract.
 summary: We introduce Meta Agents Research Environments (ARE), a research platform for scalable creation of environments, integration of synthetic or real applications, and execution of agentic orchestrations. We also propose Gaia2, a benchmark built in ARE and designed to measure general agent capabilities. Unlike prior benchmarks, Gaia2 runs asynchronously, surfacing new failure modes that are invisible in static settings.
@@ -62,6 +63,8 @@ links:
   url: https://huggingface.co/spaces/meta-agents-research-environments/leaderboard
 - name: Post
   url: https://huggingface.co/blog/gaia2
+- name: OpenReview
+  url: https://openreview.net/forum?id=9gw03JpKK4
 url_pdf:
 url_code: 'https://github.com/facebookresearch/meta-agents-research-environments'
 url_dataset: 'https://huggingface.co/datasets/meta-agents-research-environments/gaia2'
