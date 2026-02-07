@@ -94,4 +94,4 @@ During my PhD, I joined PyTorch at Meta, where I created [BenchMARL](https://git
 
 For my master, I investigated the problem of transport network design for multi-agent routing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Matteo_bettini___CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/Matteo_bettini___CV.pdf" "newtab" >}}CV{{< /staticref >}} and the longer {{< staticref "uploads/Matteo_bettini___CV_academia.pdf" "newtab" >}}academic CV{{< /staticref >}}. 
