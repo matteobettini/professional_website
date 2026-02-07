@@ -29,7 +29,7 @@ tags:
 - Multi-Agent Reinforcement Learning
 - Software library
 
-featured: true
+featured: false
 
 links:
 - name: Docs
