@@ -39,6 +39,8 @@ links:
   url: https://arxiv.org/abs/2506.09434
 - name: OpenReview
   url: https://openreview.net/forum?id=uJCGMBO6Qx
+- name: Website
+  url: https://sites.google.com/view/hetgps
 url_pdf:
 url_code: 'https://github.com/proroklab/HetEnvDesign'
 url_dataset: ''
